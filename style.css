@@ -8,3 +8,17 @@ padding: 20px;
 front-size: 32px;
 color: rgb (42,122,228);
 }
+h1{
+    font-size: 40px;
+}
+p{
+    front-size: 20px;
+}
+img{
+    height: 200px;
+}
+.categiria-videos {
+    display: flex;
+    overflow-x:auto;
+    gap: 10px;
+}
