@@ -28,3 +28,14 @@ img{
     overflow-x:auto;
     gap: 10px;
 }
+.categiria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid green
+}
+.categoria{
+    color:royalblue (42, 122, 228);
+ }
